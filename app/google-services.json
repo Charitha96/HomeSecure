@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743604807895",
+    "firebase_url": "https://homesafecc.firebaseio.com",
+    "project_id": "homesafecc",
+    "storage_bucket": "homesafecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743604807895:android:c9a4a12cfe1642b4e82892",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743604807895-pr7phv2g5tfbpeuf7mml2bff6kgdl056.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "af0dbd1575a7e1e4c387c574ff2b5b17804e5ce6"
+          }
+        },
+        {
+          "client_id": "743604807895-2i4hncvtoqjpp9cv4rdmuj6m4bhiatmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjimPWX7wq41ihn1rOzI1CykVkCdASmrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743604807895-2i4hncvtoqjpp9cv4rdmuj6m4bhiatmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
